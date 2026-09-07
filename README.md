@@ -1114,3 +1114,10 @@ visibility, and clinician oversight to make home rehabilitation more
 structured, measurable, and engaging.
 
 **Recover with confidence. Move with precision.**
+
+## 🔗 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-RehabForge-24483F?style=for-the-badge)](https://rehabforge.vercel.app/
+)
+
+**Live Website:** https://rehabforge.vercel.app/
