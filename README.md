@@ -1071,7 +1071,7 @@ demonstrating the product concept.
 
 ------------------------------------------------------------------------
 
-# 🤝 Team / Hackathon
+# 🤝 Team CodeMafia's
 
 **Project:** RehabForge
 
@@ -1087,19 +1087,7 @@ Web Development\
 Data Visualization\
 Gamification
 
-------------------------------------------------------------------------
 
-# 📄 License
-
-Add the project's chosen license here.
-
-For example:
-
-``` text
-MIT License
-```
-
-if the team decides to release the project under MIT.
 
 ------------------------------------------------------------------------
 
