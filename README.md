@@ -400,7 +400,7 @@ Smartwatch
 -   Supabase or compatible database
 -   Mock data layer for development/demo mode
 
-## Optional Wearable
+##  Wearable sensor integration
 
 -   Wear OS / Android sensor APIs
 -   Apple Watch / HealthKit
