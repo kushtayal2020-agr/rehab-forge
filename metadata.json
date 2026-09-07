@@ -1,0 +1,6 @@
+{
+  "name": "RehabForge",
+  "description": "Precision digital physical therapy and kinematic telemetry biofeedback webapp with computer vision pose tracking and clinician oversight.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

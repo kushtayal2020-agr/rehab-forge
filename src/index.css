@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  --color-primary: #0b3129;
+  --color-primary-container: #24483f;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #90b6aa;
+  
+  --color-secondary: #386752;
+  --color-secondary-container: #b8ebd0;
+  --color-on-secondary: #ffffff;
+  --color-on-secondary-container: #3d6c57;
+  --color-secondary-fixed: #bbeed3;
+  --color-secondary-fixed-dim: #9fd1b8;
+  
+  --color-tertiary: #232e29;
+  --color-tertiary-container: #39443e;
+
+  --color-surface: #f1fcf5;
+  --color-surface-card: #ffffff;
+  --color-surface-canvas: #f7f8f4;
+  --color-surface-subtle: #eef2ed;
+  --color-surface-muted: #e6ece7;
+  --color-surface-container: #e5f1ea;
+  --color-surface-container-low: #ebf6f0;
+  --color-surface-container-high: #e0ebe4;
+  --color-surface-container-highest: #dae5df;
+
+  --color-status-success: #4e8a68;
+  --color-status-warning: #c9953c;
+  --color-status-error: #b85c57;
+  --color-status-info: #557b9b;
+
+  --color-text-primary: #1f2925;
+  --color-text-secondary: #66716c;
+  --color-text-muted: #8b9590;
+}
+
+body {
+  font-family: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #f7f8f4;
+  color: #1f2925;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #dae5df;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #90b6aa;
+}
